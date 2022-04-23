@@ -42,4 +42,4 @@ The code in this notebook uses the Auto Regressive Integrated Moving Average(ARI
 ## Recommendations
 1. Use both ARIMA and KNN models in tandem. 
 2. Next, we can focus more on predicting the volatility of an asset instead of its price.
-3. Also ake into account the company’s financials to predict movements in future stock prices.
+3. Also take into account the company’s financials to predict movements in future stock prices.
